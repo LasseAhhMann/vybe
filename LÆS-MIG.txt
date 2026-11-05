@@ -1,0 +1,6 @@
+VYBE – demo-app
+===============
+Upload ALLE filer i denne mappe (index.html, manifest.json, sw.js og mappen icons) til roden af et GitHub-repository
+(fx et nyt repository der hedder "vybe"), og slå GitHub Pages til under Settings → Pages (Branch: main, mappe: / (root)).
+Åbn adressen i Safari på iPad'en → Del-knappen → "Føj til hjemmeskærm".
+Alle produkter, brands og brugere er opdigtede. Man kan logge ind med hvad som helst.
